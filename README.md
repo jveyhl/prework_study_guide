@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-<a href="[https://example.com](https://jveyhl.github.io/prework_study_guide/)" target="_blank" rel="noopener noreferrer">prework_study_guide web page</a>
+[prework_study_guide web page](https://jveyhl.github.io/prework_study_guide/)
 
 ## Credits
 
